@@ -1,8 +1,8 @@
 # Project NLP
 
-## Sameed SAJID
-## 21135456
-## ssajid@connect.ust.hk
+### Sameed SAJID
+### 21135456
+### ssajid@connect.ust.hk
 
 This repository contains code for the following tasks:
 
